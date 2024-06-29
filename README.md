@@ -8,14 +8,15 @@ Powered by [DynaUI](https://www.dynaui.design/).
 
 ## Demo Video
 
-Watch the demo video below:
+Click the image below to watch the demo video:
 
-<figure>
-  <video controls width="100%" height="auto">
-    <source src="https://res.cloudinary.com/dl2adjye7/video/upload/v1719664927/waitlist_bv5bsb.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</figure>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
+
+## Live Demo
+
+Explore the live demo of the Waitlist Template:
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Now-blue)](https://waitlist-template-1s9wxifi4-samicostoxs-projects.vercel.app/)
 
 ## Getting Started
 
