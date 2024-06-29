@@ -10,7 +10,7 @@ Powered by [DynaUI](https://www.dynaui.design/).
 
 Click the image below to watch the demo video:
 
-[![Watch the video](https://res.cloudinary.com/dl2adjye7/video/upload/v1719664927/waitlist_bv5bsb.mp4)
+[![Watch the video](https://youtu.be/MZbj8zKEFsE)
 
 ## Live Demo
 
