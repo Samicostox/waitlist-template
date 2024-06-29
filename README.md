@@ -6,6 +6,8 @@ This repository presents the Waitlist Template created by Sami.
 
 Powered by [DynaUI](https://www.dynaui.design/).
 
+Live Link [WaitList](https://waitlist-template-1s9wxifi4-samicostoxs-projects.vercel.app/).
+
 ## Demo Video
 
 Click the image below to watch the demo video:
