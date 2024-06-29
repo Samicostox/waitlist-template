@@ -1,6 +1,6 @@
-import BackgroundSection from './components/Background.js';
-import GlassCTA from './components/GlassCTA.js';
-import Footer from './components/Footer.js';
+import BackgroundSection from './Components/Background.js';
+import GlassCTA from './Components/GlassCTA.js';
+import Footer from './Components/Footer.js';
 
 export default function Home() {
   return (
