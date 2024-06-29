@@ -4,7 +4,7 @@ This repository presents the Waitlist Template created by Sami.
 
 [![Twitter](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE)
 
-Powered by [DynaUI](https://www.dynaui.com).
+Powered by [DynaUI](https://www.dynaui.design/).
 
 ## Demo Video
 
