@@ -8,7 +8,8 @@ Powered by [DynaUI](https://www.dynaui.com).
 
 ## Demo Video
 
-[Watch the demo video here](LINK_TO_YOUR_VIDEO)
+<iframe width="560" height="315" src="https://res.cloudinary.com/dl2adjye7/video/upload/v1719664927/waitlist_bv5bsb.mp4" frameborder="0" allowfullscreen></iframe>
+
 
 
 ## Getting Started
