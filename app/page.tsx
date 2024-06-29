@@ -4,7 +4,7 @@ import Footer from './components/Footer.js';
 
 export default function Home() {
   return (
-    <main className='relative m-0 p-0'>
+    <main className='relative m-0 p-0 pb-0'>
       <BackgroundSection />
       <GlassCTA />
       <Footer />
