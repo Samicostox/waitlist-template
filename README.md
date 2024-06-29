@@ -10,7 +10,7 @@ Powered by [DynaUI](https://www.dynaui.design/).
 
 Click the image below to watch the demo video:
 
-[![Watch the video](https://youtu.be/MZbj8zKEFsE)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/MZbj8zKEFsE)
 
 ## Live Demo
 
